@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Coverage directory used by testing tools
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configurations
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Build files
+dist/
+build
